@@ -1,11 +1,11 @@
 {
     "app": {
-        "baseUri": "BASE_URI",
-        "appId": "MICROSOFT_APP_ID",
+        "baseUri": "https://bdfea33c.ngrok.io",
+        "appId": "51241955-a1eb-44f1-9b6e-bbefba5c3cf2",
         "instrumentationKey": "APPINSIGHTS_INSTRUMENTATIONKEY"
     },
     "bot": {
-        "appId": "MICROSOFT_APP_ID",
-        "appPassword": "MICROSOFT_APP_PASSWORD"
+        "appId": "78bc61cc-8818-4613-ac49-940edfae67b4",
+        "appPassword": "5Kw-xKC3W3Vkoq0w_ii]TpwIT/3I@T/K"
     }
 }

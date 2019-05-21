@@ -26,13 +26,13 @@
     "staticTabs": [{
         "entityId": "com.contoso.helloworld.hellotab",
         "name": "Hello Tab",
-        "contentUrl": "https://yourteamsapp.ngrok.io/hello",
+        "contentUrl": "https://71473707.ngrok.io/hello",
         "scopes": [
             "personal"
         ]
     }],
     "configurableTabs": [{
-        "configurationUrl": "https://yourteamsapp.ngrok.io/configure",
+        "configurationUrl": "https://71473707.ngrok.io/configure",
         "canUpdateConfiguration": true,
         "scopes": [
             "team"
